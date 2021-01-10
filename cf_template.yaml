@@ -105,7 +105,6 @@ Resources:
       TargetGroupARNs:
         - !Ref WebServerTargetGroup
     
-
 Outputs:
   WebsiteURL:
     Description: Milliseconds Converter Application Load Balancer URL
